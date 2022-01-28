@@ -6,9 +6,10 @@
 #                                                            #
 ##############################################################
 
-#The data conversion step after 
-#Progenesis QI export is described in 
-#DOI:10.1515/cclm-2021-0010
+#The data conversion R script for 
+#Progenesis QI export files was first described in 
+#the "urine-adulteration" GitHub repository
+#it can be also found in this project: data_preprocessing.R
 
 #Total data set: 474 samples x 18'656 features
 
